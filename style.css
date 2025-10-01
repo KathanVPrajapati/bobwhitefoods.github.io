@@ -54,3 +54,22 @@ footer img {
   height: 40px;
   margin-top: 10px;
 }
+.contact-card {
+  background-color: #e0f2f1;
+  border-left: 5px solid #004d40;
+  padding: 20px;
+  margin: 20px 0;
+  border-radius: 5px;
+  font-size: 1.1rem;
+}
+
+.contact-card a {
+  color: #004d40;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.contact-card a:hover {
+  text-decoration: underline;
+}
+
